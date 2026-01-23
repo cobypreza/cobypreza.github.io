@@ -7,7 +7,7 @@
     "phone": "808-497-3722",
     "website": "https://cobypreza.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "94-1168 Kahuanui St.", "postalCode": "96797", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96797", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "cobypreza", "url": "http://github.com/cobypreza" },
       { "network": "linkedin", "username": "coby-preza", "url": "http://linkedin.com/in/coby-preza" }
@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
       "startDate": "2024-09-01",
       "endDate": "Present",
