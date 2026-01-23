@@ -2,17 +2,15 @@
   "basics": {
     "name": "Coby Preza",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "cobyp@hawaii.edu",
+    "picture": "https://github.com/cobypreza.png",
+    "email": "cobypreza@icloud.com",
     "phone": "808-497-3722",
     "website": "https://cobypreza.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "94-1168 Kahuanui St.", "postalCode": "96797", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "cobypreza", "url": "http://github.com/cobypreza" },
+      { "network": "linkedin", "username": "coby-preza", "url": "http://linkedin.com/in/coby-preza" }
     ]
   },
   "interests": [
@@ -52,47 +50,25 @@
       "endDate": "Present",
       "summary": "Computer technician of the TecHub department.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Performed computer diagnostics, system checks, data transfers, and component replacements",
+        "Assisted customers in finding Apple products based on performance, compatibility, and usage",
+        "Managed interdepartmental orders, coordinating inventory flow and fulfillment accuracy across multiple teams",
+        "Delivered customer-facing technical consultations, translating complex concepts into clear, user-friendly explanations",
+        "Carried out core retail operations including customer service, point-of-sale transactions, inventory resupply, and asset organization"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Interact Club at Pearl City High School",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Social Committee Chair",
+      "startDate": "2022-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Led a comittee that assisted in member participation and retention",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Provided a welcoming and inclusive environment to a club consisting of 80+ members.",
+        "Volunteered 25+ hours in a community service projects supporting local beaches, schools, and organizations"
       ]
     }
   ],
@@ -104,10 +80,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Top 200",
+      "date": "2025",
+      "awarder": "National Cyber League",
+      "summary": "My team won top 200 in 2025.  See my portfolio site for more details."
     }
   ],
   "references": [
