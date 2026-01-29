@@ -12,8 +12,6 @@ summary: "Certified Mac Technician"
 ---
 
 <img class="img-fluid" src="../img/repair1.jpg">
-Above is a picture of a broken io board(left) and a brand new io board(right).
-
 
 I work at the University of Hawai'i at Manoa Bookstore TecHub. As part of my job, we are asked to get certifications that would allow us to work on Apple products, specifically Mac laptops. Throughout the course we are taught the ins-and-outs of the devices we would be working on. We are also taught the procedures for handling computer repairs which is our primary service. We also help with Windows installations, Adobe installations, data transers.
 
