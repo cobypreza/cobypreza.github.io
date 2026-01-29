@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/repair.jpg
 title: "Computer Repairs"
-date: 2025-Present
+date: 2025 - Present
 published: true
 labels:
   - Hardware
