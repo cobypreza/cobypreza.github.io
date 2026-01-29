@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/blackjack1.jpg
 title: "Blackjack"
-date: 2026-Present
+date: 2026 - Present
 published: true
 labels:
   - Python
