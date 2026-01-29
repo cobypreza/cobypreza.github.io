@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/blackjack1.jpg
+image: img/ncl.jpg
 title: "National Cyber League"
 date: 2025
 published: true
