@@ -13,5 +13,5 @@ labels:
 summary: "Team Placed Top 200"
 ---
 
-<img class="img-fluid" src="../img/blackjack.png">
+<img class="img-fluid" src="../img/echant.png">
  
