@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/cobypreza.png",
     "email": "cobypreza@icloud.com",
-    "phone": "808-497-3722",
+    "phone": "",
     "website": "https://cobypreza.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028. I am exploring my options, specifically internships, to strengthen my capabilities in regards to coding, cybersecurity, etc.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -74,10 +74,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2024-Present",
+      "awarder": "University of Hawai'i at Manoa",
+      "summary": "$4000 scholarship given yearly, for 4 years, to those with a Cumulative High School GPA at or above a 3.70."
     },
     {
       "title": "Top 200",
