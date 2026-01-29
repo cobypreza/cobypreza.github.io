@@ -8,7 +8,7 @@ published: true
 labels:
   - Python
   - GitHub
-summary: "A Soon To Be Blackjack Dealer Discord Bot."
+summary: "Blackjack Dealer Discord Bot (Work In Progress)"
 ---
 
 <img class="img-fluid" src="../img/blackjack.png">
