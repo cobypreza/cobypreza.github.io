@@ -8,6 +8,9 @@ published: true
 labels:
   - Hardware
   - Software
+  - Troubleshooting
+  - Repair
+  - Diagnostics
 summary: "Certified Mac Technician"
 ---
 
