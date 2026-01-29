@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: img/blackjack1.jpg
+image: img/repair.jpg
 title: "Computer Repairs"
 date: 2025
 published: true
 labels:
   - Python
   - GitHub
-summary: "Certified Mac Technician at the University of Hawai'i Bookstore"
+summary: "Certified Mac Technician"
 ---
 
-<img class="img-fluid" src="../img/blackjack.png">
+<img class="img-fluid" src="../img/repair1.jpg">
  
 
