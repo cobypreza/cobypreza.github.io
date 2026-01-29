@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cards.png
+image: img/blackjack1.jpg
 title: "Blackjack"
 date: 2025
 published: true
