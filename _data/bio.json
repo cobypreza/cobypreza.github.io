@@ -6,7 +6,7 @@
     "email": "cobypreza@icloud.com",
     "phone": "",
     "website": "https://cobypreza.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028. I am exploring my options, specifically internships, to strengthen my capabilities in regards to coding, cybersecurity, etc.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028. I hope to find an internship to strengthen my capabilities in regards to coding, cybersecurity, and IT.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "cobypreza", "url": "http://github.com/cobypreza" },
@@ -75,7 +75,7 @@
   "awards": [
     {
       "title": "Manoa Academic Merit Scholarship",
-      "date": "2024-Present",
+      "date": "2024 - Present",
       "awarder": "University of Hawai'i at Manoa",
       "summary": "$4000 scholarship given yearly, for 4 years, to those with a Cumulative High School GPA at or above a 3.70."
     },
