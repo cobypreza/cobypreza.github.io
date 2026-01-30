@@ -13,7 +13,7 @@ labels:
 <img width="400px" class="rounded float-start pe-4" src="../img/wod1.png">
 
 ## First Impressions
-I still consider myself new in all things computer science, but one thing I will say is that I have heard of most programming languages. TypeScript, on the other hand, has somehow flown right past my radar. Though, after spending some time with it and learning about it, I think that it's honestly one of my favorite languages. I mean I've tried C, C++, Java, and Python but something about TypeScript stands out to me. Maybe it was the background in all those languages, but learning this language was definitely the easiest in my opinion.
+I have heard of most programming languages. TypeScript, on the other hand, has somehow flown right past my radar. Though, after spending some time with it and learning about it, I think that it's honestly one of my favorite languages. I mean I've tried C, C++, Java, and Python but something about TypeScript stands out to me. Maybe it was the background in all those languages, but learning this language was definitely the easiest in my opinion.
 
 For example, in comparison to Java, it didn't take me a particularly long time to get used to. TypeScript felt a lot less demanding in both syntax and code structure. Java, at the start, demands types, classes, and structure. TypeScript lets you be a lot more fluid and, though it's safer to do so, does not need an explicit declaration of type to work. Also, with TypeScript, it felt a lot easier to transfer my thoughts into code.
 
