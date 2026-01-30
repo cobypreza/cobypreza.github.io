@@ -12,7 +12,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="300px" img height = "450px" class="rounded float-start pe-4" src="../img/stacko.png">
+<img width="500px" img class="rounded float-start pe-4" src="../img/stacko.png">
 
 ## What Qualifies As A Smart Question?
 One of the qualities of a smart question is to show that there was prior research done beforehand. Before asking someone a question, save both of your times and search it up first. Search the archives of the forums, search the Web, read a manual, ask a friend. Any credible and reliable source can do. If you happen to find the answer right off the bat, then it probably wasn't a smart question. Having done your research beforehand displays a deeper understanding of the topic. By asking a smart question, your prior research demonstrates both background knowledge and willingness to learn. 
