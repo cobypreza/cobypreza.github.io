@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/swe.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/swe.jpg">
 
 ## Why Software Engineering?
 My interest in software engineering stems from problem-solving. Everyone has problems, and everyone wants a solution. Software engineers help make the solutions to many problems by designing systems that make tasks both easier, faster, and reliable. Many applications people depend on daily such as tools for communication, healthcare systems, and banking are made by software engineers. I have always wanted to make a big impact in some sort of way and software engineering allows me to do that behind the scenes. 
