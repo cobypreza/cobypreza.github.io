@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img class="rounded float-start pe-4" src="../img/standards.jpg">
+<img width="400" class="rounded float-start pe-4" src="../img/standards.jpg">
 
 ## What? More Rules?
 Recently, with the addition of VSCode, we have also implemented coding standards into our learning through ESLint. With said implementation brings back a memory from my first semester, when I would think, "What does it matter what my code looks like? I'm the only who sees it." Now, in my fourth semester as of writing this, I can say my opinion on this topic has changed drastically. Coding standards are pretty important when building programs and have helped me learn topics on a deeper level.
