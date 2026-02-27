@@ -12,7 +12,7 @@ labels:
   - Frameworks
 ---
 
-<img width="300" class="rounded float-start pe-4" src="../img/standards.jpg">
+<img height="300" class="rounded float-start pe-4" src="../img/waipahutc.png">
 
 ## Early Beginnings
 Hypertext Markup Language or more commonly known as HTML, has been one of my favorite things to learn in all of my college classes. Actually, the first time I picked up this language was in my junior year of high school. I remember making a little homepage website for a school project. I don't really remember the product, but I do remember it being pretty easy, and that I understood the basics pretty well. Now, in college, I admit I felt pretty rusty at first but after working and practicing I feel that I came back to where I was before, maybe even a little better.
