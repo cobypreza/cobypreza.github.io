@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Strap In For Bootstrap"
 # All dates must be YYYY-MM-DD format!
-date: 2026-02-11
+date: 2026-02-26
 published: true
 labels:
   - VSCode
