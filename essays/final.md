@@ -27,7 +27,7 @@ The solution: This project provides a database for these passionate basketball p
   <li>Dexter Chung</li>
 </ul>
 
-## Mockup Page Ideas:
+## Mockup Page Ideas
 ### Courts Database:
 <ul>
   <li>Amount of courts</li>
