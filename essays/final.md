@@ -12,7 +12,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="300px" img height = "450px" class="rounded float-start pe-4" src="../img/court.jpeg">
+<img height="400px" src="../img/court.jpeg">
 
 ## Overview
 The problem: There are some people who have a passion for basketball and want to explore new courts. When looking for courts on a regular map application, they are not given information about who is there, the condition of the court, which courts are present and recent news about the area.
