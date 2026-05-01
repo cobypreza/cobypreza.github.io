@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="300px" img height = "450px" class="rounded float-start pe-4" src="../img/busroute.png">
+<img src="../img/busroute.png">
 
 ## Finding Patterns
 Let’s say you take the bus to work every day. It is a fixed route that reliably gets you to your workplace, one that you have already tested and found to be efficient. Now, suppose a new cafe opens near your workplace. For the sake of this example, you really like coffee and you want to try out this new place. You don’t have to completely redesign your commute, rather you might consider a few options based off of your reliable, tested route. For example, you may get off a stop earlier, transfer to another bus for a slightly different stop, or choose an alternative route that gets you to roughly the same area. In this context, you are using a design pattern. The problem here is finding an efficient route to reach locations in the general area. Rather than designing a completely new solution, we are reusing a proven route and making small adjustments to meet a slightly different goal.
