@@ -10,7 +10,7 @@ labels:
   - Effort Estimation
 ---
 
-<img src="../img/busroute.png">
+<img src="../img/track.png">
 
 ## How Long Will I Take?
 The way in which I estimated the amount of effort a task would take was for the most part using my gut and old assignments. I noticed that historically I take more time on assignments that include UI design. Now that I had no more template or goal, I imagined that I would take even longer than those previous assignments. Not only that, I would have to think and imagine what I actually want my website to look at which adds a little more time as, of course, I want it to look as good as it possibly can. This long time of brainstorming did end up coming in handy because it made implementation way faster.
