@@ -3,13 +3,14 @@ layout: project
 type: project
 image: img/hoopshawaii.jpg
 title: "Hoops Hawai'i"
-date: 2026 - Present
+date: 2026
 published: true
 labels:
   - Software Engineering
   - HTML
-  - Typescript
-summary: "Helps users find courts and other hoopers around Hawai'i"
+  - React
+  - TypeScript
+summary: "A web application that helps hoopers around Hawai'i find courts and friends to play with"
 ---
 
 <img class="img-fluid" src="../img/findcourts.png">
