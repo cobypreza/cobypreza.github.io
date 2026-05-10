@@ -11,7 +11,7 @@ labels:
   - Troubleshooting
   - Repair
   - Diagnostics
-summary: "Certified Mac Technician"
+summary: "Certified Mac Technician for the University of Hawai'i at Manoa Bookstore"
 ---
 
 <img class="img-fluid" src="../img/repair1.jpg">
