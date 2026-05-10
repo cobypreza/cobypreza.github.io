@@ -10,7 +10,7 @@ labels:
   - Cryptography
   - Networking
   - Competition
-summary: "Team Placed Top 200"
+summary: "Team placed top 200 in a cybersecurity competition"
 ---
 
 <img class="img-fluid" src="../img/echant.png">
