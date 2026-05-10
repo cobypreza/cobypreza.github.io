@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Looking Back At Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-29
+date: 2026-05-09
 published: true
 labels:
   - Software Engineering
