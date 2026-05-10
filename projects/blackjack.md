@@ -4,7 +4,7 @@ type: project
 image: img/blackjack1.jpg
 title: "Blackjack"
 date: 2026 - Present
-published: true
+published: false
 labels:
   - Python
   - GitHub
