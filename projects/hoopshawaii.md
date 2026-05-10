@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hoopshawaii.png
+image: img/hoopshawaii.jpg
 title: "Hoops Hawai'i"
 date: 2026 - Present
 published: true
