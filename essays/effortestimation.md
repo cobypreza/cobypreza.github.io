@@ -4,7 +4,7 @@ type: essay
 title: "Trained to Track"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-04
-published: false
+published: true
 labels:
   - Software Engineering
   - Effort Estimation
