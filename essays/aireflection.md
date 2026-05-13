@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img src="../img/ai.png">
+<img src="../img/ai.jpeg">
 
 ## I. Introduction
 
